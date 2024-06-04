@@ -5,17 +5,17 @@
 
 ##  <font color = #9ACD32> Содержание </font>
 
-[1. Введение](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
-[2. Описание задачи](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
-[3. Описание данных](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
-[4. Результат](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
-[5. Выводы](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+[1. Введение](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
+[2. Описание задачи](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
+[3. Описание данных](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)   
+[4. Результат](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)                  
+[5. Выводы](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### <font color = #9ACD32> 1. Введение </font>
 
 HR-агентство изучает тренды на рынке труда в IT. Компания хочет провести исследование на основе данных о зарплатах в сфере Data Science за 2020–2022 годы и получить некоторые выводы.
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
 
 
 ###  <font color = #9ACD32>2. Описание задачи</font>
@@ -41,7 +41,7 @@ HR-агентство изучает тренды на рынке труда в 
      + для нескольких выборок;           
  + тест для категориальных признаков.
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)               
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)               
                                  
 ###  <font color = #9ACD32>3. Описание данных</font>
 
@@ -78,21 +78,21 @@ HR-агентство изучает тренды на рынке труда в 
      + 100 — полностью удалённая работа (более 80 %).
 
  + company_location - Страна главного офиса работодателя или филиала по контракту в виде кода страны ISO 3166.
+ + company_size - Среднее количество людей, работавших в компании в течение года:
 
- + company_size - Среднее количество людей, работавших в компании в течение года:                
-     + S — менее 50 сотрудников (небольшая компания);              
-     + M — от 50 до 250 сотрудников (средняя компания);              
+     + S — менее 50 сотрудников (небольшая компания);
+     + M — от 50 до 250 сотрудников (средняя компания);
      + L — более 250 сотрудников (крупная компания).
 
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)                    
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)                    
 
 ###  <font color = #9ACD32>4. Результат</font>
 
-Ноутбук с решением на GitHub: [project_6.ipynb](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store/blob/ca7851879e9f1599b591a612694fb8b3bc4b5acc/Project-6.ipynb).     
+Ноутбук с решением на GitHub: [EDA4_homework.ipynb](https://github.com/DmitVasilev/EDA-homework/blob/438919679991d481420004bdfb17e8fc45f70bed/EDA4_homework.ipynb).     
  
-Обеспечить воспроизводимость кода поможет файл requirements.txt: [requirements.txt](https://github.com/DmitVasilev/PROJECT-6.-Segmenting-customers-for-an-online-gift-store/blob/f218c1a4b3db44b545df9cb8876f6b026a86178f/requirements.txt). 
+Обеспечить воспроизводимость кода поможет файл requirements.txt: [requirements.txt](https://github.com/DmitVasilev/EDA-homework/blob/438919679991d481420004bdfb17e8fc45f70bed/requirements.txt). 
                         
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)     
 
 
 ###  <font color = #9ACD32>5. Выводы</font>
@@ -101,4 +101,4 @@ HR-агентство изучает тренды на рынке труда в 
  + выдвинуты дополнительные гипотезы для подтверждения с использованием статистических тестов;
  + проведен статистический анализ с использованием статистических тестов для одной, двух, нескольких выборок, а также тестов для категориальных признаков.
                              
-:arrow_up:[к содержанию](https://github.com/DmitVasilev/Project-6.-Segmenting-customers-for-an-online-gift-store?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)        
+:arrow_up:[к содержанию](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-)        
