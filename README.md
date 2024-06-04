@@ -3,6 +3,7 @@
 <center> <img src='https://img.freepik.com/free-vector/futuristic-technology-infographic_23-2148462819.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1708992000&semt=ais'> </center>
 
 
+
 ##  <font color = #9ACD32> Содержание </font>
 
 [1. Введение](https://github.com/DmitVasilev/EDA-homework?tab=readme-ov-file#-1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-)   
